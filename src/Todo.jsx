@@ -47,7 +47,6 @@ export const Todo = () => {
 
   return (
     <>
-    いいい
       <InputTodo
         todoText={todoText}
         onChange={onChangeTodoText}
